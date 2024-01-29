@@ -34,3 +34,6 @@ PlatformDevCertCalculator is a Lightning Web Component (LWC) designed to calcula
 3. Provide input scores for each section.
 4. Click the "Calculate Score" button to obtain the certification score.
 5. Review the provided resources if needed.
+
+## Output Sample
+![PD1Calc](https://github.com/tomsouza4/Salesforce-PD1-Calculator/assets/11336182/bd67274b-b64d-4284-aa2e-3fc86e50c1f7)
