@@ -1,4 +1,4 @@
-# PlatformDevCertCalculator
+# Platform Dev Cert Calculator
 
 PlatformDevCertCalculator is a Lightning Web Component (LWC) designed to calculate the certification score for Salesforce Platform Developer certification exams.
 
